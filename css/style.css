@@ -140,6 +140,10 @@ input {
     display: flex;
 }
 
+.zero {
+    color: red;
+}
+
 .timer__item {
     width: 10.2rem;
     height: 11.2rem;
